@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/b9b22b9a-b018-4c75-b456-ac398089a50c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/react-practise",
+    "appService.deploySubpath": "build"
+}
