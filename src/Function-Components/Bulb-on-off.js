@@ -8,6 +8,7 @@ const BulkUseCase = () => {
     const bulb = <div className={on  ? 'bulb-on' : 'bulb-off'}></div>;
     const bulbs = Array(count).fill(bulb);
     return (
+        
         <div>
             { <div className="bulbs">{bulbs}</div>}
             {/* {count.map((item)=><div key={item.id} className={'bulbs'}>{item.bulb}</div>)} */}
